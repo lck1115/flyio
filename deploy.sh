@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# UUID="7b8b9362-be3e-4a63-a372-c7f4085b987b"
+# UUID="7b8b9362-be3e-4a63-a372-c7f4085b987d"
 # APP_NAME="ray"
 REGION="hkg"
 
