@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# UUID="00277430-85b5-46e2-a6c9-4fe3da538187"
+# UUID="7b8b9362-be3e-4a63-a372-c7f4085b987b"
 # APP_NAME="lyz7805-v2ray"
 REGION="hkg"
 
